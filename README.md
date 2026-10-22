@@ -46,3 +46,16 @@
 
 • К расширению нового архива будет добавлен символ "0" (CPackedb.2c0 и CPackedi.2c0). Сделайте резервную копию исходных архивов или переместите их в другую папку, а затем переименуйте новые архивы, удалив символ "0" из расширения файлов.
 • Помните, что каждый игровой архив состоит из двух файлов, отличающихся одной буквой в названии ("i" или "b"). Переименовывать и перемещать необходимо оба файла.
+
+
+## ⚖️ Legal Disclaimer / Правовая информация
+
+* **Divine Divinity** and **Beyond Divinity** are registered trademarks of **Larian Studios**.
+* All in-game assets, graphics, and data extracted or modified by this tool are the sole property of **Larian Studios**. 
+* This project is an unofficial, non-commercial fan tool developed for educational and modding purposes only. It is not endorsed by, affiliated with, or associated with Larian Studios.
+
+---
+
+* Все права на игры **Divine Divinity** и **Beyond Divinity** принадлежат компании **Larian Studios**.
+* Игровые ресурсы, графика и данные, извлекаемые или изменяемые данной программой, являются интеллектуальной собственностью **Larian Studios**.
+* Данное приложение является неофициальным некоммерческим инструментом для моддинга, создано исключительно в ознакомительных целях и никак не связано с официальными разработчиками.
