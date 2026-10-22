@@ -1,4 +1,4 @@
-[Div_Ggraphics_Extender](https://github.com/Raan/Divinity_Ggraphics_Extender/releases) — это WPF-приложение на C#, предназначенное для извлечения, просмотра и обратной запаковки графических ассетов (спрайтов) из игр Divine Divinity и Beyond Divinity. Программа работает с внутренними игровыми архивами формата CPackedi.*c и позволяет модифицировать текстуры игры.
+[Divinity_Graphics_Extender](https://github.com/Raan/Divinity_Graphics_Extender/releases) — это WPF-приложение на C#, предназначенное для извлечения, просмотра и обратной запаковки графических ассетов (спрайтов) из игр Divine Divinity и Beyond Divinity. Программа работает с внутренними игровыми архивами формата CPackedi.*c и позволяет модифицировать текстуры игры.
 
 🚀 Основные возможности
 
