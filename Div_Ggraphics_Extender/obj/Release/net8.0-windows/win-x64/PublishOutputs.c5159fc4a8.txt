@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Documents\repos\Div_Ggraphics_Extender\Div_Ggraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\Div_Ggraphics_Extender.pdb
+C:\Users\Пользователь\Documents\repos\Div_Ggraphics_Extender\Div_Ggraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\LZOCompressor.cs
+C:\Users\Пользователь\Documents\repos\Div_Ggraphics_Extender\Div_Ggraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\lib32\lzo2.dll
+C:\Users\Пользователь\Documents\repos\Div_Ggraphics_Extender\Div_Ggraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\lib32\msvcr100.dll
+C:\Users\Пользователь\Documents\repos\Div_Ggraphics_Extender\Div_Ggraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\lib64\lzo2_64.dll
+C:\Users\Пользователь\Documents\repos\Div_Ggraphics_Extender\Div_Ggraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\lib64\msvcr100.dll
+C:\Users\Пользователь\Documents\repos\Div_Ggraphics_Extender\Div_Ggraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\Div_Ggraphics_Extender.exe

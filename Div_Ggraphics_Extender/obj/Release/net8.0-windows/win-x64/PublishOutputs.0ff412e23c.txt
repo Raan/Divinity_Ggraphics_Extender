@@ -1,0 +1,8 @@
+C:\Users\orel15\source\repos\Div_Gvgraphics_Extender\Div_Gvgraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\Div_Ggraphics_Extender.pdb
+C:\Users\orel15\source\repos\Div_Gvgraphics_Extender\Div_Gvgraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\LZOCompressor.cs
+C:\Users\orel15\source\repos\Div_Gvgraphics_Extender\Div_Gvgraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\lib32\lzo2.dll
+C:\Users\orel15\source\repos\Div_Gvgraphics_Extender\Div_Gvgraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\lib32\msvcr100.dll
+C:\Users\orel15\source\repos\Div_Gvgraphics_Extender\Div_Gvgraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\lib64\lzo2_64.dll
+C:\Users\orel15\source\repos\Div_Gvgraphics_Extender\Div_Gvgraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\lib64\msvcr100.dll
+C:\Users\orel15\source\repos\Div_Gvgraphics_Extender\Div_Gvgraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\SpritesMap.dat
+C:\Users\orel15\source\repos\Div_Gvgraphics_Extender\Div_Gvgraphics_Extender\bin\Release\net8.0-windows\publish\win-x64\Div_Ggraphics_Extender.exe
