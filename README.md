@@ -39,7 +39,6 @@
 
 • Нажмите кнопку Save PNG to Sprite для создания обновленных файлов архива.
 
-• К расширению нового архива будет добавлен символ "0" (CPackedb.2c0 и CPackedi.2c0). Сделайте резервную копию исходных архивов или переместите их в другую папку, а затем переименуйте новые архивы, удалив символ "0" из расширения файлов.
 • Помните, что каждый игровой архив состоит из двух файлов, отличающихся одной буквой в названии ("i" или "b"). Переименовывать и перемещать необходимо оба файла.
 
 
@@ -80,7 +79,6 @@ When editing exported images, you must strictly follow these rules to ensure suc
 * Edit the images in the created folder while strictly adhering to the graphic requirements.
 * If necessary, check the **Max Compress** checkbox.
 * Click the **Save PNG to Sprite** button to generate the updated archive files.
-* The character `0` will be appended to the extension of the newly created archive (e.g., `CPackedb.2c0` and `CPackedi.2c0`). Back up your original archives or move them to another folder, then rename the new archives by removing the `0` from their extensions.
 * Keep in mind that each game archive consists of two files that differ by just one letter in their names (`i` or `b`). You must rename and move **both** files.
 
 
